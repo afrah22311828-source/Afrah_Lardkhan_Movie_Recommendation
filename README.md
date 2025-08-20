@@ -77,4 +77,13 @@ Go to `http://localhost:3000/` (or the appropriate port) to access the applicati
 
 ## License
 This project is licensed under the MIT License.
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+Copyright 2025 Afrah Lardkhan
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License...
+
 
